@@ -5,5 +5,5 @@ manufactures. All trademarks are property of their respective owners.
 This data can be used with attribution by app developers to calculate the price
 of paper towels per unit weight from a scanned barcode for easy comparison shopping.
 
-Contributions, suggestions and corrections are appreciated.
+Contributions, suggestions and corrections are appreciated.  
 https://github.com/LucidOne/ptdb
