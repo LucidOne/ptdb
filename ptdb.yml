@@ -1,0 +1,90 @@
+---
+# Paper Towel Specification Database
+# Version 0.0.1
+# License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
+# Source: https://github.com/LucidOne/ptdb
+-
+  name: "VIVA Choose-A-Sheet Paper Towels"
+  brand: "VIVA"
+  mfg: "Kimberly-Clark"
+  updated: 201801
+  sheet_width: 27.9_cm
+  sheet_length: 15.2_cm
+  roll_area: 4.3_m^2
+  rolls: 1
+  sheets: 102
+  ply: 1
+  upc: 036000287882
+  asin: B00CJSY95S
+  pkg_weight: 278.0_g
+  roll_weight: 274.4_g
+  recycling:
+    wrap: "Store Drop-Off - Plastic"
+    tube: "Paper"
+  origin: "Made in the USA from Domestic and Imported Material"
+-
+  name: "Scott Paper Towels Choose-A-Sheet"
+  brand: "Scott"
+  mfg: "Kimberly-Clark"
+  updated: 201801
+  sheet_width: 27.9_cm
+  sheet_length: 15.2_cm
+  roll_area: 4.3_m^2
+  rolls: 1
+  sheets: 102
+  ply: 1
+  upc: 054000369247
+  pkg_weight: 178.7_g
+  roll_weight: 175.0_g
+  recycling:
+    wrap: "Store Drop-Off - Plastic"
+    tube: "Paper"
+  fsc: C068161
+-
+  name: "Bounty Paper Towels Select-a-Size"
+  brand: "Bounty"
+  mfg: "Proctor and Gamble"
+  updated: 201801
+  sheet_width: 27.9_cm
+  sheet_length: 14.9_cm
+  roll_area: 3.4_m^2
+  rolls: 1
+  sheets: 84
+  ply: 2
+  upc: 037000950196
+  pkg_weight: 196.6_g
+  roll_weight: 193.0_g
+-
+  name: "Signature Home thirsty paper towels"
+  brand: "Signature"
+  mfg: "Better Living Brands"
+  updated: 201801
+  sheet_width: 27.9_cm
+  sheet_length: 14.9_cm
+  roll_area: 3.5_m^2
+  rolls: 1
+  sheets: 84
+  ply: 2
+  upc: 021130261529
+  pkg_weight: 204.8_g
+  roll_weight: 199.8_g
+-
+  name: "Trader Joe's Paper Towels"
+  brand: "Trader Joe's"
+  mfg: "Royal Paper Converting"
+  updated: 201801
+  sheet_width: 27.9_cm
+  sheet_length: 27.9_cm
+  roll_area: 6.2_m^2
+  rolls: 3
+  sheets: 80
+  ply: 2
+  upc: 00441919
+  pkg_weight: 804_g
+  roll_weight: 265.2_g
+  recycling:
+    chlorine_bleach: "no"
+    post_consumer_content: "80%"
+    wrap: "#4 LDPE"
+    tube: "Paper"
+  fsc: C104812

@@ -1,0 +1,34 @@
+---
+# Paper Towel Cost Database
+# Version 0.0.1
+# License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
+# Source: https://github.com/LucidOne/ptdb
+-
+  upc: 036000287882
+  vendor: Star Market
+  date: 201801
+  zipcode: 02140
+  cost: 2.19
+-
+  upc: 036000287882
+  vendor: Amazon
+  date: 201803
+  cost: 1.99
+-
+  upc: 054000369247
+  vendor: Star Market
+  date: 201801
+  zipcode: 02140
+  cost: 2.29
+-
+  upc: 037000950196
+  vendor: Star Market
+  date: 201801
+  zipcode: 02140
+  cost: 2.49
+-
+  upc: 021130261529
+  vendor: Star Market
+  date: 201801
+  zipcode: 02140
+  cost: 1.99
